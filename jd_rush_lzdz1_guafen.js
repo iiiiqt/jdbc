@@ -30,7 +30,7 @@ if ($.isNode()) {
     }
 
         authorCodeList = [
-            '2d5b7a9b3e82473797cdf557205f355f',
+            'f85e5229171a4bb5b4f3140eff225e9d',
         ]
 
     // console.log(authorCodeList)
