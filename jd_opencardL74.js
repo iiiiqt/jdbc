@@ -53,7 +53,7 @@ let activityCookie =''
   // return
   $.appkey = '51B59BB805903DA4CE513D29EC448375'
   $.userId = '10299171'
-  $.actId = 'b134063c47974580a18d208412_22021501'
+  $.actId = 'dd01d7abe65a4bac83967e94968_220218'
   $.MixNicks = ''
   $.inviteNick = 'XBNXOaw0OGjRLXUyn2G4oVs/ye9oluZX4nOTK56TeMXbR7I2OlzZch4hTs22oCUS'
   console.log(`活动地址:`)
