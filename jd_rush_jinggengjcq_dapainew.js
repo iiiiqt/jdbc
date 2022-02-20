@@ -1,6 +1,7 @@
 /*
 https://jinggengjcq-isv.isvjcloud.com/fronth5/#/pages/unitedCardNew20220123/unitedCardNew20220123?actId=b2d6a99babf64595aac5_220123
 10-29 11-3
+111
 */
 const $ = new Env("通用大牌联合");
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
