@@ -723,7 +723,7 @@ function Env(t, e) { "undefined" != typeof process && JSON.stringify(process.env
 // 1dd895c75bda49aeb47481ae404c58da
 (async () => {
   await openCardActivity(
-    "152b6c5ae5b84a88a39a1dec34be2c11",
+    "6543d84ba9c34db9a29b8701ba4244ec",
     "https://cjhydz-isv.isvjcloud.com",
     "jd_xxx",
     60,
